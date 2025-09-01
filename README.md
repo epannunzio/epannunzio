@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as a Dev Front-End Jr<br>
 🌱 Learning React and Next.js<br>
-🤔 I’m looking for help with JS and Dart<br>
+🤔 I’m looking for help with JS and TypeScript<br>
 📫 How to reach me: edilza_rodrigues@hotmail.com<br>
 ⚡ Fun fact: Why do astronauts use linux? - because you can't open windows in space!!!😄<br>
 
