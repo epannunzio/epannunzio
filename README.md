@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Edilza! Be welcome!
 
 🔭 I’m currently working as a Dev Front-End Jr<br>
-🌱 Learning React and Flutter<br>
+🌱 Learning React and Next.js<br>
 🤔 I’m looking for help with JS and Dart<br>
 📫 How to reach me: edilza_rodrigues@hotmail.com<br>
 ⚡ Fun fact: Why do astronauts use linux? - because you can't open windows in space!!!😄<br>
